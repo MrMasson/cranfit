@@ -19,6 +19,7 @@ Charbonneau, Samuel. (2018), Structure des os, des cartilages, des ligaments et 
 
 El Hajj Boutros, Guy (2018), Douleurs chroniques, Cours : Rééducation motrice, Montréal : Université du Québec à Montréal.
 
+
 **Écrit par :** Frédérick Crasnier, Valérie Bénard 
 
 
@@ -49,6 +50,8 @@ Anandacoomarasamy, A., & March, L. (2010). Current Evidence for Osteoarthritis T
 Roddy E., Doherty M. (2006) Changing life-styles and osteoarthritis: what is the evidence? Best Pract Res Clin Rheumatol 20: 81–97
 
 
+**Écrit par :** Frédérick Crasnier, Valérie Bénard 
+
 
 
 ## Traitement version kinésiologue
@@ -64,3 +67,6 @@ En ce qui concerne la phase 3, il faut réaliser un retour progressif vers les a
 ### Sources
 El Hajj Boutros, Guy (2018), Douleurs chroniques, Cours : Rééducation motrice, Montréal : Université du Québec à Montréal.
 Charbonneau, Samuel. (2018), Structure des os, des cartilages, des ligaments et des tendons, Cours : Blessures musculosquelettiques, Montréal : Université du Québec à Montréal.
+
+
+**Écrit par :** Frédérick Crasnier, Valérie Bénard 
