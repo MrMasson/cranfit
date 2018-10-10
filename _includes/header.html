@@ -7,7 +7,7 @@
           <div class="desktopNav">
             {% for my_page in site.pages %}
             {% if my_page.title and my_page.navbar %}
-            <a href="{{ my_page.url | prepend: site.baseurl }}" id="{{ my_page.title }}" role="button" aria-expanded="false" aria-haspopup="true">
+            <a href="{{ my_page.url }}" id="{{ my_page.title }}" role="button" aria-expanded="false" aria-haspopup="true">
               {{ my_page.title }}
             </a>
             {% endif %}
