@@ -2,7 +2,7 @@
 layout: page
 title: Blog
 navbar: true
-permalink: blog.html
+permalink: /blog/
 ---
 
 ## Ceci est un test
