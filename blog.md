@@ -93,3 +93,6 @@ En bref, le simple fait d’avoir une faiblesse musculaire peut diminuer le supp
 Woolf A.D., Pfleger B. (2003) Burden of major musculoskeletal conditions. Bull World Health Organ 81: 646–656
 
 Felson D.T., Zhang Y., Anthony J.M., Naimark A., Anderson J.J. (1992) Weight loss reduces the risk for symptomatic knee osteoarthritis in women. The Framingham Study. Ann Intern Med 116: 535–539
+
+
+**Écrit par :** Frédérick Crasnier et Valérie Bénard
