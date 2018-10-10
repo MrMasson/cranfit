@@ -2,7 +2,7 @@
 layout: page
 title: Blog
 navbar: true
-permalink: cal.html
+permalink: blog.html
 ---
 
 ## Ceci est un test
