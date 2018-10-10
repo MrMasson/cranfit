@@ -14,7 +14,7 @@ L’intensité de la douleur devient exagérée en raison de bombardements nocic
 
 Si la douleur chronique n’est pas traitée à la phase neuropathique, la phase psychogénique entre en jeux. Les douleurs psychogéniques constituent un processus dynamique qui se divise en deux phases. Tout d’abord, la phase primaire constitue le phénomène de conversion. Ensuite, la phase secondaire est en lien avec les construits psychologiques, soit la kinésiophobie et/ou le catastrophisme, induits par le contrôle des centres supérieurs (El Hajj Boutros, 2018).
 
-<img src="images/blog1.png" alt="blog1" width="100%">
+<img src="/images/blog1.png" alt="blog1" width="100%">
 ### Sources
 Charbonneau, Samuel. (2018), Structure des os, des cartilages, des ligaments et des tendons, Cours : Blessures musculosquelettiques, Montréal : Université du Québec à Montréal.
 
