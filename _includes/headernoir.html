@@ -1,0 +1,23 @@
+<header class="site-header" role="banner">
+        {%- assign default_paths = site.pages | map: "path" -%}
+        {%- assign page_paths = site.header_pages | default: default_paths -%}
+        {%- if page_paths -%}
+          <nav class="nav2">
+              <a href="{{ "/" | relative_url }}" class="logo site-title" rel="author">CranFit</a>
+              <div class="desktopNav">
+                {% for my_page in site.pages %}
+                {% if my_page.title and my_page.navbar %}
+                <a href="{{ my_page.url | relative_url }}" id="{{ my_page.title }}" role="button" aria-expanded="false" aria-haspopup="true">
+                  {{ my_page.title }}
+                </a>
+                {% endif %}
+                {% endfor %}
+              </div>
+              <div class="mobileNav">
+                  <a href="#">&#9776;</a>
+              </div>
+          </nav>
+        {%- endif -%}
+      
+    </header>
+    

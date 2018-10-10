@@ -2,7 +2,7 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- if page_paths -%}
-      <nav>
+      <nav class="nav">
           <a href="{{ "/" | relative_url }}" class="logo site-title" rel="author">CranFit</a>
           <div class="desktopNav">
             {% for my_page in site.pages %}
