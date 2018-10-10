@@ -71,3 +71,25 @@ Charbonneau, Samuel. (2018), Structure des os, des cartilages, des ligaments et 
 
 
 **Écrit par :** Frédérick Crasnier, Valérie Bénard 
+
+
+
+
+## Facteurs à risques
+
+Plusieurs sont au courant de ce qu’est l’arthrose en général, mais ce qui devrait être sue aussi c’est les facteurs qui augmentent nos risques d’en faire. Sachant ce qui nous met à risque, c’est plus simple de l’éviter ou de faire quelque chose pour diminuer ou ralentir les effets de l’arthrose. 
+
+En premier lieux, l’âge est l’un des effets qui agit sur l’arthrose. Plus l’on vieillit, plus nous sommes à risque de faire de l’arthrose malheureusement. Plus de 50% des gens âgées de 65 ans et plus ont des preuves radiologiques comme quoi ils sont atteints par l’arthrose. Par la suite, le sexe est un autre facteur qu’on ne peut pas omettre de mentionner puisque 18% des gens atteints sont des femmes contrairement à 10% qui sont des hommes (Woolf and Pfleger, 2003).
+
+Ensuite, les personnes qui sont en surpoids sont aussi à risque d’être atteint de cette maladie. Effectivement le surpoids d’une personne augmente inutilement la pression que les articulations subissent pour soutenir cet excès tel que les hanches, les genoux et les pieds. Une étude du chercheur Felson D.T démontre que la perte de poids de 5 kg ou plus diminue les risques de faire de l’arthrose de 50% (Felson 1992). 
+
+Malheureusement, l’arthrose peut aussi provenir de blessure au niveau articulaire dont la cause peut être n’importe quoi (sports, travail, loisir, accident de voiture, etc). Le simple fait que l’articulation soit endommagée, signifie que les risques de dégradation du cartilage sont augmentés engendrant une certaine douleur au niveau de l’articulation. La répétition d’un mouvement durant de longue période de temps peut aussi augmenter les chances d’attraper cette maladie pour les mêmes sources que celle de la blessure. 
+
+En bref, le simple fait d’avoir une faiblesse musculaire peut diminuer le support que vous donnez à vos articulations, ce qui est en soi un facteurs de risque en lien avec l’arthrose. Il est donc judicieux de faire affaire avec un kinésiologue pour augmenter ca masse et/ou sa force musculaire ou pour perdre de la masse adipeuse afin de diminuer les risques de faire de l’arthrose.
+
+
+### Sources
+
+Woolf A.D., Pfleger B. (2003) Burden of major musculoskeletal conditions. Bull World Health Organ 81: 646–656
+
+Felson D.T., Zhang Y., Anthony J.M., Naimark A., Anderson J.J. (1992) Weight loss reduces the risk for symptomatic knee osteoarthritis in women. The Framingham Study. Ann Intern Med 116: 535–539
